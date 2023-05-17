@@ -80,7 +80,7 @@ def test_github_dynamic_labels():
 
 @allure.tag('critical')
 @allure.severity(Severity.CRITICAL)
-@allure.label('owner', 'Victor')
+@allure.label('owner', 'Lasha')
 @allure.feature('Task')
 @allure.story('An authorized user can create a task in the repository')
 @allure.link('https://github.com', name='Testing')
