@@ -1,0 +1,1 @@
+# QA_Guru_allure_report_lasha
